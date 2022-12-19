@@ -1,0 +1,17 @@
+fieldset{
+	background-color: lightblue;
+	width: 30%;
+	margin: auto;
+}
+legend{
+	border: solid ;
+	background-color: lightblue;
+	font-family: sans-serif;
+	font-size: 1.3rem;
+	text-align: center;
+}
+.submit{
+	font-size: 1.3rem;
+	background-color: lightyellow;
+	border-radius: 13px;
+}
